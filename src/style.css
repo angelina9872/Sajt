@@ -1,0 +1,42 @@
+body{
+  background-color:white;
+  text-align: center;
+  font-family: 'IBM Plex Serif', serif;
+  font-size: 25px;
+ left:letter-spacing: 2.5px;
+}
+li{
+  display: inline;
+  
+}
+a {
+    text-decoration: none; 
+    color:  #333333; 
+  padding:  50px;
+ 
+}
+img {
+  width: 90%;
+hight: 70%;
+
+}
+
+h1{
+  style: italic;
+}
+.nav-bar{
+  position: fixed;
+  top: 0; 
+  width: 100%; 
+  background-color: white;
+  font-size: 35px;
+}
+
+.tekst {
+  position: absolute;
+  bottom: -550px;
+  left: 140px;
+  color: white;
+  font-size: 90px;
+  text-align: left;
+}
